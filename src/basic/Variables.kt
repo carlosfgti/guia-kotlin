@@ -5,6 +5,9 @@ fun main(args: Array<String>) {
     foundedIn = 2014
     println(foundedIn)
 
+    var founder: String = "Carlos Ferreira"
+    println(founder)
+
     var name = "EspecializaTi"
     println(name)
 
